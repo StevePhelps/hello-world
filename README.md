@@ -1,2 +1,2 @@
 # hello-world
-trying to figure out an use git hub
+trying to figure out how to use and to start using git hub
